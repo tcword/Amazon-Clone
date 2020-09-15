@@ -1,0 +1,7 @@
+A React project with Firebase.
+Utilized Firebase's email and password authentication.
+Implemented React Context API to be able to access the user from anywhere. (much more effecient than prop drilling)
+User is able to see their email in the navbar when they sign in by creating a Data Layer. 
+User is able to add to their cart when they click on the product's button. 
+Utilized CurrencyFormat from react-currency-format to automatically upadate the price total in the cart. 
+Utilized Stripe API. 
